@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCommerceAPI", "TheCommerceAPI\TheCommerceAPI.csproj", "{E9B9F7B2-3AFD-4A6A-B284-530DC94CF544}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheCommerceData", "TheCommerceData\TheCommerceData.csproj", "{31926D0F-F5A4-44A5-8B1B-0DFDFAA88CCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9B9F7B2-3AFD-4A6A-B284-530DC94CF544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9B9F7B2-3AFD-4A6A-B284-530DC94CF544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9B9F7B2-3AFD-4A6A-B284-530DC94CF544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9B9F7B2-3AFD-4A6A-B284-530DC94CF544}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31926D0F-F5A4-44A5-8B1B-0DFDFAA88CCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31926D0F-F5A4-44A5-8B1B-0DFDFAA88CCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31926D0F-F5A4-44A5-8B1B-0DFDFAA88CCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31926D0F-F5A4-44A5-8B1B-0DFDFAA88CCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2369DDE9-B731-43A6-9AAC-861ACDDA1000}
+	EndGlobalSection
+EndGlobal

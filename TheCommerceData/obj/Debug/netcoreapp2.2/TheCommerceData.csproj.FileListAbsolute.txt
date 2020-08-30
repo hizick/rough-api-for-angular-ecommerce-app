@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\bin\Debug\netcoreapp2.2\TheCommerceData.deps.json
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\bin\Debug\netcoreapp2.2\TheCommerceData.runtimeconfig.json
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\bin\Debug\netcoreapp2.2\TheCommerceData.runtimeconfig.dev.json
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\bin\Debug\netcoreapp2.2\TheCommerceData.dll
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\bin\Debug\netcoreapp2.2\TheCommerceData.pdb
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.AssemblyInfo.cs
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.dll
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.pdb
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.csprojResolveAssemblyReference.cache

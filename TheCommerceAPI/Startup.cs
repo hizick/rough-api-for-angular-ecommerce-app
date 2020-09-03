@@ -38,6 +38,7 @@ namespace TheCommerceAPI
             services.AddDbContext<TheCommerceContext>(options => options.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"))
             .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking));
             services.AddCors();
+            //services.AddCors();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

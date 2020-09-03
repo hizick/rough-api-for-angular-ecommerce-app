@@ -8,4 +8,4 @@ C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCom
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.AssemblyInfo.cs
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.dll
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.pdb
-C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.csprojResolveAssemblyReference.cache
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceData\obj\Debug\netcoreapp2.2\TheCommerceData.genruntimeconfig.cache

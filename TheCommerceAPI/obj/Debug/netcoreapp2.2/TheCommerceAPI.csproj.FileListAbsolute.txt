@@ -5,7 +5,6 @@ C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\TheComm
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\TheCommerceAPI.pdb
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\TheCommerceData.dll
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\TheCommerceData.pdb
-C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.csprojResolveAssemblyReference.cache
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.csproj.CoreCompileInputs.cache
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.RazorAssemblyInfo.cache
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.RazorAssemblyInfo.cs
@@ -14,3 +13,8 @@ C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheComm
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.RazorTargetAssemblyInfo.cache
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.dll
 C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.pdb
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.csproj.CopyComplete
+C:\inetpub\wwwroot\TheCommerceAPI\TheCommerceAPI\obj\Debug\netcoreapp2.2\TheCommerceAPI.genruntimeconfig.cache
